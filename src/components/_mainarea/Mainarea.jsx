@@ -1,5 +1,3 @@
-import React from 'react';
-
 import WorkList from './WorkList.js';
 import SectionWrap from './SectionWrap/SectionWrap.jsx';
 import SectionWraper from './SectionWraper/SectionWraper.jsx';

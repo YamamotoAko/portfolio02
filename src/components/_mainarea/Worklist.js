@@ -1,4 +1,4 @@
-const workList = [
+const WorkList = [
   {
     id: 'portfolio',
     title: 'portfolio',
@@ -14,4 +14,4 @@ const workList = [
     src_l: 'lp_l.png',
   },
 ];
-export default workList;
+export default WorkList;
