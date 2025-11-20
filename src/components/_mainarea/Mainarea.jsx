@@ -1,6 +1,6 @@
 import React from 'react';
 
-import workList from './WorkList.js';
+import List from './WorkList.js';
 import SectionWrap from './SectionWrap/SectionWrap.jsx';
 import SectionWraper from './SectionWraper/SectionWraper.jsx';
 import AboutImg from '../_common/AboutImg/aboutImg.jsx';
@@ -11,7 +11,7 @@ export default function Mainarea() {
   return (
     <main>
       <SectionWraper headingText="work">
-        {workList.map((item) => (
+        {List.map((item) => (
           <SectionWrap
             key={item.title}
             id={item.title}
