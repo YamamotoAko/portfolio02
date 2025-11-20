@@ -1,0 +1,32 @@
+.wraper {
+  display: flex;
+  justify-content: space-between;
+  width: 994px;
+  margin-inline: auto;
+
+  .wrap {
+    flex-direction: column;
+    p {
+      font-size: 24px;
+      a {
+        text-decoration: none;
+        span {
+          color: #9ca3af;
+          font-size: 16px;
+        }
+      }
+    }
+    .img_l {
+      width: 559px;
+
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+  .img_s img {
+    width: 415px;
+    height: auto;
+  }
+}

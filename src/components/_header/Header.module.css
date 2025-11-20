@@ -1,0 +1,18 @@
+.box {
+  max-width: 994px;
+  margin-inline: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .nav {
+    display: flex;
+    gap: 32px;
+    li {
+      list-style: none;
+    }
+  }
+}
+.firstViewImg {
+  max-width: 994px;
+  margin-inline: auto;
+}

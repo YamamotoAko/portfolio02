@@ -1,0 +1,9 @@
+.logo {
+  font-size: 2rem;
+  color: #1f2937;
+}
+
+.logo a {
+  text-decoration: none;
+  color: inherit;
+}
