@@ -1,5 +1,5 @@
 import React from 'react';
-import workList from './workList.js';
+import workList from './WorkList.js';
 import SectionWrap from './SectionWrap/SectionWrap.jsx';
 import SectionWraper from './SectionWraper/SectionWraper.jsx';
 import AboutImg from '../_common/AboutImg/aboutImg.jsx';
