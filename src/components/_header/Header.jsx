@@ -1,7 +1,6 @@
 import React from 'react';
-import Navigation from './Navigation';
+import Navigation from './Navigation/Navigation';
 import FirstViewImg from './FirstView/FirstViewImg';
-import styles from './Header.module.css';
 
 export default function Header() {
   return (

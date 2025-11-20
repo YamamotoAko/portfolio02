@@ -1,6 +1,6 @@
 import React from 'react';
 import navList from './navList.js';
-import styles from './../../_header/Header.module.css';
+import styles from './NavMenu.module.css';
 export default function NavMenu() {
   return (
     <ul className={styles.nav}>
